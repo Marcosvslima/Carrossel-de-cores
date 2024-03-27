@@ -1,4 +1,4 @@
-let listaDeCores = ["blue","red","green","yellow"]
+let listaDeCores = ["blue","red","green","yellow","black","pink","brown","purple","orange"]
 
 let btn = document.getElementById("btn")
 let divi = document.getElementById("divi")
